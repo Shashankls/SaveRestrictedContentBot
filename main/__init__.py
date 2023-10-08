@@ -17,7 +17,7 @@ API_HASH = config("API_HASH", "8b283f2943729318995738b5963f0bcc")
 BOT_TOKEN = config("BOT_TOKEN","6565223508:AAHLPpsA1dc7VxlbDKVL0F_u792YIqJ-DEc")
 SESSION = config("SESSION",)
 FORCESUB = config("FORCESUB", default=None)
-AUTH = config("AUTH",cast=int,"6561715152")
+AUTH = config("AUTH","6561715152")
 
 bot = TelegramClient('bot', API_ID, API_HASH).start(bot_token=BOT_TOKEN) 
 
