@@ -12,8 +12,8 @@ logging.basicConfig(format='[%(levelname) 5s/%(asctime)s] %(name)s: %(message)s'
                     level=logging.WARNING)
 
 # variables
-API_ID = config("API_ID","16621664")
-API_HASH = config("API_HASH", "8b283f2943729318995738b5963f0bcc")
+API_ID = config("API_ID","29400566")
+API_HASH = config("API_HASH", "8fd30dc496aea7c14cf675f59b74ec6f")
 BOT_TOKEN = config("BOT_TOKEN","6653186136:AAElR4rlBQi5JrIdltqvHLpPc8y1MmMeh10")
 SESSION = config("SESSION","BQD9oGAARBUv3-ZXsxRja5isNJ1dQIKQmZ9pWDlLWlldOQnT11IFeRds0r0EPjRQ80RDuws7vz9ill7RcuLCEy6PYVcakeywLQTalpekCcI6I1Y8C4F3G8mdD1lWQ3Vbm3IZYdY68W5zbEPWCXr9Gl4Yl9NoqzM6jrzIKXvc855TUiMx83rXAF4mnpbh4C5MaCZpR8ewZluwW_hM7_PsCOIgn_G1A14d6qyUpLFjscTCURJLKRaeKH6ZPgmM1hsY2QbfdU-r7Jt_UfcLe5NwvAPfwysuRF2R3p-x4vLV2XAxCX3lk5gbO9wOCFosaAvldJk885pmrE_-0i3eSo0fPfxc45bn1AAAAAGHG9PQAA")
 
